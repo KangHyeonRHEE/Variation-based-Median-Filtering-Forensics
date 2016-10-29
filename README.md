@@ -1,4 +1,4 @@
-# Variation-based-Median-Filtering-Forensics
+# Variation based Median Filtering Forensics
 
 It contains:
 
