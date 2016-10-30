@@ -9,4 +9,4 @@ Matlab code of the feature vector extraction [1] will be uploaded soon.
 How to Cite
 
 Please cite the following: if you are using this Matlab code:
-Software available at https://github.com/KangHyeonRHEE/Variations-and-Residual-based-Median-Filtering-Forensics
+Software available at https://github.com/KangHyeonRHEE/Variations-based-Median-Filtering-Forensics
